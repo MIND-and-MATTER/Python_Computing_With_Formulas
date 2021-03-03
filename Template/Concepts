@@ -2,8 +2,16 @@
 
 *Data type
 *List
+*Nested List
+*Slice
+*Tuple
 *Index
+*Array
 *String
+*Flow control
+*Indent
 *Condition
 *Function
 *Built-in function
+*Docstring
+*Module.
